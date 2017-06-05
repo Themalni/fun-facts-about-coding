@@ -15,7 +15,7 @@ var factsList = [
     "It's never too late to learn to code.",
     "When learning to code, Google is your best friend.",
     "You feel like a super hero when fixing a bug in your code.",
-    "Sometime code is full of bugs.",
+    "Sometimes code is full of bugs.",
     "It can turn from hobby to addiction in no time.",
     "Coding often ocupies your mind even when you are doing something else.",
     "It develops a creative thinker in you, don't underestimate it.",
